@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683032100517",
+    "project_id": "machinetask-138a2",
+    "storage_bucket": "machinetask-138a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683032100517:android:8fda297267336e5eb7174c",
+        "android_client_info": {
+          "package_name": "com.example.machinetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5tkqP--EcEDerYisqtXofmxxYqWaVOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
